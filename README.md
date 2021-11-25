@@ -6,6 +6,8 @@ The project is about early dectection of Alzheimer's Disease using concepts of A
 
 Alzheimer’s disease  (AD)  is an irreversible neurodegenerative disease.  Over 50  million people reported worldwide have dementia,  and these figures are expected to touch  132  million by  2050.  Mild cognitive impairment  (MCI)  is the stage of  AD  from when initial symptoms are observed,  and it is crucial to analyze pathological changes in this stage. Up-till now, various studies for  AD  detection have been developed via sMRI, which are based on analysis since it provides an intuitive way to observe the structural changes of the brain.
 
+## Approach
+
 Current MRI-based methods can be generally categorized into four classes:
 - Voxel-based method
 - Region-of-interest (ROI) based method
@@ -20,3 +22,7 @@ Voxel-based methods require cortical thickness,  brain tissue density, and volum
 ![WhatsApp Image 2021-11-24 at 8 39 01 PM](https://user-images.githubusercontent.com/68604113/143392241-7d7e0e29-3ea0-44d8-a3ae-186421e925ea.jpeg)
 ![WhatsApp Image 2021-11-24 at 8 39 44 PM](https://user-images.githubusercontent.com/68604113/143392247-32d950fd-a1d2-4ac6-8796-d8a4eeda13fe.jpeg)
 ![WhatsApp Image 2021-11-24 at 8 40 14 PM](https://user-images.githubusercontent.com/68604113/143392251-e677f793-5064-4ab6-b24f-437aff266f11.jpeg)
+
+## Installation Guidelines
+
+## References
