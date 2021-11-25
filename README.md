@@ -1,4 +1,4 @@
-# CSE518_ArtificialIntelligence
+# Artificial Intelligence (CSE518)
 
 ## Introduction
 
