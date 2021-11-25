@@ -32,8 +32,17 @@ Binary cross-entropy(Loss Function): The binary cross entropy is very convenient
 
 ## Results
 
+
+- Validation accuracy vs. Epoch
+
 ![WhatsApp Image 2021-11-24 at 8 39 01 PM](https://user-images.githubusercontent.com/68604113/143392241-7d7e0e29-3ea0-44d8-a3ae-186421e925ea.jpeg)
+
+- Rate Loss vs. Epoch
+
 ![WhatsApp Image 2021-11-24 at 8 39 44 PM](https://user-images.githubusercontent.com/68604113/143392247-32d950fd-a1d2-4ac6-8796-d8a4eeda13fe.jpeg)
+
+- Evaluation
+
 ![WhatsApp Image 2021-11-24 at 8 40 14 PM](https://user-images.githubusercontent.com/68604113/143392251-e677f793-5064-4ab6-b24f-437aff266f11.jpeg)
 
 ## Installation Guidelines
