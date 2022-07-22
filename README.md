@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project is about early dectection of Alzheimer's Disease using concepts of Artifical Intelligence. 
+The project is about Early Detection of Alzheimer's Disease using concepts of Artificial Intelligence. 
 
 Alzheimer’s disease  (AD)  is an irreversible neurodegenerative disease.  Over 50  million people reported worldwide have dementia,  and these figures are expected to touch  132  million by  2050.  Mild cognitive impairment  (MCI)  is the stage of  AD  from when initial symptoms are observed,  and it is crucial to analyze pathological changes in this stage. Up-till now, various studies for  AD  detection have been developed via sMRI, which are based on analysis since it provides an intuitive way to observe the structural changes of the brain.
 
